@@ -1,0 +1,7 @@
+Pusha upp projekt via terminalen till en repository som har skapats i github. (Behövs "force origin master"?)
+git init
+git add README.md
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/userName/repoName.git
+git push --force origin master
