@@ -5,3 +5,6 @@ git add .
 git commit -m "first commit"
 git remote add origin https://github.com/userName/repoName.git
 git push --force origin master
+
+Log in/out authentication ionic med api?
+https://www.djamware.com/post/58c1703e80aca7585c808ec1/step-by-step-tutorial-building-ionic-2-rest-api-authentication 
